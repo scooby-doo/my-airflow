@@ -1,0 +1,7 @@
+# IDE specific files
+.idea
+*.iml
+.vscode
+.calva
+*.zip
+.DS_Store
